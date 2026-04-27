@@ -15,7 +15,7 @@ Você pode baixar os dados diretamente neste link:
 Após o download, extraia os arquivos na seguinte estrutura:
 
 ```text
-/data/enade/
+/enade_raw/
             2017/ -> Edição
             2018/
             2019/
